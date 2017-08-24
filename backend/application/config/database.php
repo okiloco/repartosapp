@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'repartosapp.cytdauqvr8li.us-east-2.rds.amazonaws.com';
+$db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'fvargas';
 $db['default']['password'] = 'okiykoki2009';
 $db['default']['database'] = 'repartosapp';
