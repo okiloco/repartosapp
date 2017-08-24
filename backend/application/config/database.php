@@ -48,8 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'repartosapp.cytdauqvr8li.us-east-2.rds.amazonaws.com';
 $db['default']['username'] = 'postgres';
+$db['default']['port'] = '5432';
 $db['default']['password'] = 'okiykoki2009';
 $db['default']['database'] = 'repartosapp';
 $db['default']['dbdriver'] = 'postgre';
